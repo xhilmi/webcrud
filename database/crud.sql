@@ -41,9 +41,9 @@ CREATE TABLE `anggota` (
 --
 
 INSERT INTO `anggota` (`id_anggota`, `username`, `nama`, `alamat`, `email`, `no_hp`, `password`) VALUES
-(2, 'Setiawan98', 'Setiawan Dimas', 'Jl Kusuma Negara No 39', 'arimurti98@gmail.com', '0823222303096', NULL),
-(3, 'Dimas09', 'Dimas Ari', 'Jl Janti No 22', 'dimas09@gmail.com', '0823029293232', NULL),
-(4, 'Putri.kurnia', 'Putri Kurniawati', 'Jl Jendral Sudirman no 88', 'putri_kurnia@gmail.com', '0876383833924', NULL);
+(2, 'seathanos', 'Sea Thanos', 'Jl Kusuma Negara No 39', 'seathanos@gmail.com', '0822123987456', NULL),
+(3, 'ironman', 'Iron Man', 'Jl Janti No 22', 'ironman@gmail.com', '081114443210', NULL),
+(4, 'blackadam', 'Black Adam', 'Jl Jendral Sudirman No 88', 'blackadam@gmail.com', '087658884433', NULL);
 
 --
 -- Indexes for dumped tables
